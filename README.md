@@ -42,3 +42,6 @@
 
 -   admin: naymur@example.com
 -   password: abcd1234
+
+ ## flowchart
+ ![flowchart sia drawio](https://github.com/Ingridjewisrasaragih/Inventory-Management-System/assets/152147045/0de2020a-5b31-4a71-896a-336ea616de65)
