@@ -56,8 +56,7 @@
  ![WhatsApp Image 2023-11-20 at 13 05 39_e8f94699](https://github.com/Ingridjewisrasaragih/Inventory-Management-System/assets/152147045/ce22679d-9597-4d94-9e8b-ea7b1eb742cb)
  ![WhatsApp Image 2023-11-20 at 13 05 40_0b535152](https://github.com/Ingridjewisrasaragih/Inventory-Management-System/assets/152147045/80c970b4-e444-42be-8986-f2374afb4bf5)
 ![WhatsApp Image 2023-11-20 at 13 05 40_aa07b2e5](https://github.com/Ingridjewisrasaragih/Inventory-Management-System/assets/152147045/3d9e6890-0c6e-4f79-8f33-525a006998ce)
-![WhatsApp Image 2023-11-20 at 13 05 41_82965b26]
-(https://github.com/Ingridjewisrasaragih/Inventory-Management-System/assets/152147045/f226879a-ef67-487a-9555-0157459fb008)
+![WhatsApp Image 2023-11-20 at 13 05 41_82965b26](https://github.com/Ingridjewisrasaragih/Inventory-Management-System/assets/152147045/f226879a-ef67-487a-9555-0157459fb008)
 ![WhatsApp Image 2023-11-20 at 13 05 41_ada688f9](https://github.com/Ingridjewisrasaragih/Inventory-Management-System/assets/152147045/adf245f4-7b87-458b-8042-64751034cb48)
 ![WhatsApp Image 2023-11-20 at 13 05 42_73ac3a85](https://github.com/Ingridjewisrasaragih/Inventory-Management-System/assets/152147045/a873cf6d-7f90-40aa-aa97-10f61061c827)
 ![WhatsApp Image 2023-11-20 at 13 05 42_9d071e39](https://github.com/Ingridjewisrasaragih/Inventory-Management-System/assets/152147045/e566bb75-408c-4155-951b-a7707b919d34)
